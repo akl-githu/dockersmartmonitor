@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\e&logo.png",
+      "PackagePath": "staticwebassets\\images\\e&logo.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\e&logos.png",
+      "PackagePath": "staticwebassets\\images\\e&logos.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\elogo.png",
+      "PackagePath": "staticwebassets\\images\\elogo.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\footer.png",
+      "PackagePath": "staticwebassets\\images\\footer.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\homePage.png",
+      "PackagePath": "staticwebassets\\images\\homePage.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\homelogo.png",
+      "PackagePath": "staticwebassets\\images\\homelogo.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\images\\logos.png",
+      "PackagePath": "staticwebassets\\images\\logos.png"
+    },
+    {
       "Id": "D:\\dockerize\\dockersmartmonitor\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

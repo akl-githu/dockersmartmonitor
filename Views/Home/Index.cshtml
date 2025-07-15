@@ -1,8 +1,20 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome from docker</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="home-container">
+    
+    <!-- Left Section: Image -->
+    <div class="home-image-section">
+        <img src="/images/e&logos.png" alt="SmartMonitor" class="responsive-image">
+    </div>
+    
+    <!-- Right Section: Content -->
+    <div class="home-content-section">
+        <header>
+            <h1>SmartMonitor</h1>
+            <h2>Digital Consumer Platforms KPI's</h2>
+        </header>
+        <button onclick="location.href='@Url.Action("SignIn", "Home")'" class="sign-in-button">Sign In</button>
+    </div>
 </div>

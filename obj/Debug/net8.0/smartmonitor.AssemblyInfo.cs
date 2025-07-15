@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("smartmonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffeb96222b7fe3b9e3f3262cdd953e1885874fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("smartmonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("smartmonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

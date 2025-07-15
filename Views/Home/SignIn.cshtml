@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Sign In";
+}
+
+<div class="signin-container">
+    
+    <form method="post" action="/RedirectPage">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <label for="userType">User Type:</label>
+            <select id="userType" name="userType" required>
+                <option value="admin">Admin User</option>
+                <option value="viewer">Viewer User</option>
+            </select>
+            <button type="submit" class="login-button">Log In</button>
+    </form>
+</div>
